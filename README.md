@@ -1,5 +1,5 @@
 ____
-# `Medical Image Denosing`
+# `Medical Image Denoising`
 
 This repository contains material about Bimedical Image Denoising from scratch to advanced. It consists of notebooks as well as python file for various deep learning topics. In most cases, the notebooks lead you through implementing models such as,
 
